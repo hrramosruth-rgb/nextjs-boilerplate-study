@@ -1,3 +1,11 @@
+# Ruth Ramos — Next.js starter organization Study Fork
+
+Attributed study fork of [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate), under the preserved [MIT license](LICENSE). Upstream code and history retain their original authors.
+
+The additions are [source study notes](study/STUDY.md) and a [pinned source record](study/SOURCE.json), created in October 2026. This fork does not claim original authorship or work performed in 2021–2023. Application tests have not been run for this documentation-only addition.
+
+---
+
 # Boilerplate and Starter for Next.js 16+, Tailwind CSS 4, and TypeScript.
 
 <p align="center">

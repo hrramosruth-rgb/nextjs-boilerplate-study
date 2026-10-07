@@ -1,0 +1,12 @@
+{
+  "upstream": "ixartz/Next-js-Boilerplate",
+  "name": "nextjs-boilerplate-study",
+  "source_commit": "6acd079673a4eaaf7df6875d8025d2bec1240985",
+  "branch": "main",
+  "archived": false,
+  "upstream_url": "https://github.com/ixartz/Next-js-Boilerplate",
+  "license": "MIT",
+  "added": "2026-10-07",
+  "purpose": "Attributed source study; original upstream implementation and authors preserved.",
+  "validation": "Documentation paths and unchanged source/license checked. Application tests not run."
+}
